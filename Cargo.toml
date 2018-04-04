@@ -8,5 +8,5 @@ name = "qmkl_sys"
 path = "src/lib.rs"
 
 [build-dependencies]
-bindgen = "0.32.1"
+bindgen = "0.35"
 
